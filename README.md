@@ -111,7 +111,7 @@ Where `Trace Altitude` is the elevation (Y value) at the start of the section fo
 The 4psi program also creates stitched gnuplot derived formulas for each trace and section of the track for visualizing equation curves. 
 
 
-Equations for solving functions. 
+## Equations for solving functions. 
 
 $f(x) = Ax^3 + Bx^2 + Cx + D$ ; Equation for altitude or Y at any X location
 
@@ -135,7 +135,7 @@ Solve for $B$ in $f'(x)$
 $B = 1/L^2 [(-2S_0 - S_L) - 3(Y_0 - Y_L)]$
 
 
-Convert range from [0:L] to [0:1]
+Convert range from [0:L] to [0:L]
 
 $A_{[0:1]} = L^3 A_{[0:L]}$
 
