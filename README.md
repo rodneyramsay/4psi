@@ -135,7 +135,7 @@ Solve for $B$ in $f'(x)$
 $B = 1/L^2 [(-2S_0 - S_L) - 3(Y_0 - Y_L)]$
 
 
-Convert range from [0:L] to [0:L]
+Convert range from [0:L] to [0:1]
 
 $A_{[0:1]} = L^3 A_{[0:L]}$
 
